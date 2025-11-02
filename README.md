@@ -64,6 +64,12 @@ If you've developed an application using Google Jules and would like to showcase
 2. Adding your application details to the appropriate section
 3. Submitting a pull request
 
+## Documentation
+
+- **[APPLICATIONS.md](APPLICATIONS.md)**: Comprehensive list of all applications developed with Jules
+- **[EXAMPLES.md](EXAMPLES.md)**: Detailed examples showing how Jules assists in development
+- **[CONTRIBUTING.md](CONTRIBUTING.md)**: Guidelines for contributing your application
+
 ## Resources
 
 - [Google Jules Documentation](#)
