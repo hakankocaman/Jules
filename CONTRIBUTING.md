@@ -8,9 +8,10 @@ Thank you for your interest in contributing to the Jules Applications Repository
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/hakankocaman/Jules.git
+   git clone https://github.com/YOUR_USERNAME/Jules.git
    cd Jules
    ```
+   Replace `YOUR_USERNAME` with your GitHub username.
 
 2. **Create a New Branch**
    ```bash

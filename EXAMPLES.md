@@ -1,6 +1,6 @@
 # Example Application Showcases
 
-This document provides detailed examples of how Google Jules can assist in developing various types of applications.
+Google Jules is Google's AI-powered coding assistant that helps developers write, review, and understand code more efficiently. This document provides detailed examples of how Google Jules can assist in developing various types of applications.
 
 ## Example 1: Building a Web Application with Jules
 
